@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 Feb 2023 02:57:59 at http://phongon.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://phongon.ca/ -O1 "C:\My Web Sites\code" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:00:09	Error: 	"Not Found" (404) at link phongon.ca/favicon.ico (from phongon.ca/)
+03:50:31	Error: 	"Not Found" (404) at link phongon.ca/css/fonts/icomoon.eot?tmere9 (from phongon.ca/css/icomoon.css)
+03:50:31	Error: 	"Not Found" (404) at link phongon.ca/css/fonts/icomoon.ttf?tmere9 (from phongon.ca/css/icomoon.css)
+03:50:31	Error: 	"Not Found" (404) at link phongon.ca/css/fonts/icomoon.woff?tmere9 (from phongon.ca/css/icomoon.css)
+03:50:31	Error: 	"Not Found" (404) at link phongon.ca/css/fonts/icomoon.svg?tmere9 (from phongon.ca/css/icomoon.css)
+03:50:31	Error: 	"Not Found" (404) at link phongon.ca/css/owl.video.play.png (from phongon.ca/css/owl.carousel.min.css)
+03:50:32	Error: 	"Not Found" (404) at link phongon.ca/images/loader.gif (from phongon.ca/css/style.css)
+03:50:32	Error: 	"Not Found" (404) at link phongon.ca/.all (from phongon.ca/menu.html)
+03:50:32	Error: 	"Not Found" (404) at link phongon.ca/images/other/205B.jpg (from phongon.ca/menu.html)
+03:50:32	Error: 	"Not Found" (404) at link phongon.ca/410z.jpg (from phongon.ca/menu.html)
+03:50:32	Error: 	"Not Found" (404) at link phongon.ca/g (from phongon.ca/menu.html)
+03:52:14	Error: 	"Not Found" (404) at link phongon.ca/Popover requires tooltip.js (from phongon.ca/js/bootstrap.min.js)
+03:52:14	Error: 	"Not Found" (404) at link phongon.ca/HEAD (from phongon.ca/js/plugins.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 minutes 15 seconds : 305 links scanned, 291 files written (82717811 bytes overall) [80843117 bytes received at 24836 bytes/sec], 2969436 bytes transferred using HTTP compression in 53 files, ratio 31%, 1.2 requests per connection
+(13 errors, 0 warnings, 0 messages)
